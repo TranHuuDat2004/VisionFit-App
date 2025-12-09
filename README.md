@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Khởi chạy server Streamlit bằng lệnh:
 
 ```bash
-streamlit run app.py
+streamlit run local.py
 ```
 
 Sau khi chạy lệnh, trình duyệt sẽ tự động mở ra tại địa chỉ: `http://localhost:8501/`

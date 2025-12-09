@@ -2,3 +2,4 @@ streamlit
 mediapipe
 numpy
 opencv-python-headless
+streamlit-webrtc
